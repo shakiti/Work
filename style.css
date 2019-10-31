@@ -1,0 +1,64 @@
+.box{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 60px;
+}
+.block{
+	display: flex;
+    width: 200px;
+    height: 300px;
+    background: #f3d179;
+    flex-direction: column;
+    align-items: center;
+}
+h2{
+	font-size: 20px;
+	margin-top: 10px;
+}
+.text1{
+	font-size: 12px;
+	margin: 30px 0 10px 0;
+}
+.text2{
+	font-size: 12px;
+}
+.icon1{
+	width: 33px;
+	margin-top: 70px;
+}
+.icon2{
+	width: 36px;
+	margin-top: 70px;
+}
+.icon3{
+	width: 63px;
+	margin-top: 70px;
+}
+.icon4{
+	width: 38px;
+	margin-top: 70px;
+}
+.icon5{
+	width: 65px;
+	margin-top: 70px;
+}
+.pic1{
+	width: 541px;
+}
+.text3{
+	font-size: 40px;
+	margin-bottom: 30px;
+}
+.text4{
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+.box2{
+	display: flex;
+}
+.img{
+	margin: 200px 200px 50px 50px;
+}
+.paragraph{
+	margin-top: 300px;
+}
